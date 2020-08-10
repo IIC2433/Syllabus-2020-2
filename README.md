@@ -19,8 +19,8 @@ y prácticas de la emergente área de Minería de Datos. Al final del curso, el 
 5. **Reglas de Asociación**: algoritmo Apriori, FP-growth.
 6. **Reduccion de dimensionalidad**: análisis de las componentes principales (PCA).
 7. **Regresión**: regresión lineal con funciones de base polinomial y exponencial.
-8. **Clasificacion**: regresión logística, arboles de decisión y *random forest*, razonamiento en base a casos: KNN, KD-Trees. Naïve Bayes.
-9. **Metodos de evaluación de clasificadores**: *hold out*, *cross validation*, *bootstrapping*, *confusion matrix*, *recall*, *precision*, *F1-score*.
-10. **Clustering**: *clustering* particional: K-Means, Mean Shift, EM-GMM. Medidas de similaridad, *clustering* aglomerativo, *clustering* en subespacios. Evaluación de *clustering*.
+8. **Clasificación**: regresión logística, arboles de decisión y *random forest*, razonamiento en base a casos: KNN, KD-Trees. Naïve Bayes.
+9. **Métodos de evaluación de clasificadores**: *hold out*, *cross validation*, *bootstrapping*, *confusion matrix*, *recall*, *precision*, *F1-score*.
+10. ***Clustering***: *clustering* particional: K-Means, Mean Shift, EM-GMM. Medidas de similaridad, *clustering* aglomerativo, *clustering* en subespacios. Evaluación de *clustering*.
 11. **Aplicaciones**: visualizacion, detección de anomalías.
 12. **Aplicaciones avanzadas**: *recommender systems*, *deep learning*, *reinforcement learning*.
