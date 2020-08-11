@@ -17,7 +17,7 @@ y prácticas de la emergente área de Minería de Datos. Al final del curso, el 
 4. **Preparacion de la información**: datos ruidosos, datos faltantes, reducción de la dimensionalidad y 
        transformaciones, integración e inconsistencias.
 5. **Reglas de Asociación**: algoritmo Apriori, FP-growth.
-6. **Reduccion de dimensionalidad**: análisis de las componentes principales (PCA).
+6. **Reducción de dimensionalidad**: análisis de las componentes principales (PCA).
 7. **Regresión**: regresión lineal con funciones de base polinomial y exponencial.
 8. **Clasificación**: regresión logística, arboles de decisión y *random forest*, razonamiento en base a casos: KNN, KD-Trees. Naïve Bayes.
 9. **Métodos de evaluación de clasificadores**: *hold out*, *cross validation*, *bootstrapping*, *confusion matrix*, *recall*, *precision*, *F1-score*.
