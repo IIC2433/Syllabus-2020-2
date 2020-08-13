@@ -27,8 +27,8 @@ y prácticas de la emergente área de Minería de Datos. Al final del curso, el 
 
 ## Videos
 
-Los videos de las clases se encuentran [aquí](https://github.com/IIC2433/Syllabus-2020-2/blob/master/Clases/README.md)
+Los videos de las clases se encuentran [aquí](https://github.com/IIC2433/Syllabus-2020-2/blob/master/Clases/README.md).
 
 ## Calendario
 
-El calendario de clases se puede revisar [aquí](https://docs.google.com/spreadsheets/d/1u5-O_FckxDRHbB4tghFWRHzoAnUekQTRdqW89dTuFAU/edit?usp=sharing)
+El calendario de clases se puede revisar [aquí](https://docs.google.com/spreadsheets/d/1u5-O_FckxDRHbB4tghFWRHzoAnUekQTRdqW89dTuFAU/edit?usp=sharing).
