@@ -24,3 +24,11 @@ y prácticas de la emergente área de Minería de Datos. Al final del curso, el 
 10. ***Clustering***: *clustering* particional: K-Means, Mean Shift, EM-GMM. Medidas de similaridad, *clustering* aglomerativo, *clustering* en subespacios. Evaluación de *clustering*.
 11. **Aplicaciones**: visualizacion, detección de anomalías.
 12. **Aplicaciones avanzadas**: *recommender systems*, *deep learning*, *reinforcement learning*.
+
+## Videos
+
+Los videos de las clases se encuentran [aquí](https://github.com/IIC2433/Syllabus-2020-2/blob/master/Clases/README.md)
+
+## Calendario
+
+El calendario de clases se puede revisar [aquí](https://docs.google.com/spreadsheets/d/1u5-O_FckxDRHbB4tghFWRHzoAnUekQTRdqW89dTuFAU/edit?usp=sharing)
