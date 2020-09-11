@@ -5,3 +5,4 @@
 3. **Clase 3**: https://www.youtube.com/watch?v=ugfE5aRq1Pk
 4. **Clase 4**: https://youtu.be/1XiyU3jqI10
 5. **Clase 5**: https://youtu.be/kKczv6PQwjM
+6. **Clase 6**: https://youtu.be/PGni65vEXfk
