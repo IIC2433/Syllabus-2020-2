@@ -8,3 +8,4 @@
 6. **Clase 6**: https://youtu.be/PGni65vEXfk
 7. **Clase 7**: https://youtu.be/eKRY08d60cU
 8. **Clase 8**: https://youtu.be/YWtBHpOGxkY
+9. **Clase 9**: https://youtu.be/RMVzooMtUhw
