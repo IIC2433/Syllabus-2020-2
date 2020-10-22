@@ -10,3 +10,5 @@
 8. **Clase 8**: https://youtu.be/YWtBHpOGxkY
 9. **Clase 9: KNN**: https://youtu.be/RMVzooMtUhw
 10. **Clase 9: árboles de decisión**: https://youtu.be/48ntLWh4ltE
+11. **Clase 10**: https://youtu.be/PQP5CPr3GzQ
+12. **Clase 11**: https://youtu.be/7RECRjPVO_o
