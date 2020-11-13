@@ -14,3 +14,4 @@
 12. **Clase 11**: https://youtu.be/7RECRjPVO_o
 13. **Clase 12**: https://youtu.be/rZE1qKugccc
 14. **Clase 13**: https://youtu.be/RqS3jaHustE
+15. **Clase 14**: https://youtu.be/NOqThYLNqjI
